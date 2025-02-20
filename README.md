@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikelMaharaj
 - 👀 I’m interested in Gaming, Coding.
-- 🌱 I’m currently learning Computer Science BSc, C++
+- 🌱 I’m currently learning Computer Science BSc, C++, Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
